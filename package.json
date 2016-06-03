@@ -1,7 +1,7 @@
 {
-  "name": "froggyfrog",
+  "name": "froggyfrog-membership",
   "version": "1.0.0",
-  "description": "Node Application Patterns",
+  "description": "A member system patterned",
   "main": "index.js",
   "dependencies": {},
   "devDependencies": {
